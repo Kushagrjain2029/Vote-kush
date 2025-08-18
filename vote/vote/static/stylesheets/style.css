@@ -24,7 +24,7 @@ button[type="submit"] {
 button i{
   float: right;
   padding-right: 30px;
-  margin-top: 4px;
+  margin-top: 5px;
 }
 
 button.a{
